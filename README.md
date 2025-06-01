@@ -1,6 +1,6 @@
-# Sentiment Analysis using PySpark on Multi-Social Media Data
+# Sentiment Analysis using PySpark on Twitter Data
 
-In this mini-project, I have chosen to do sentiment analysis of social media websites such as Twitter and Reddit to gain insights into people’s opinions towards prime ministerial candidates for the Lok Sabha election 2019.
+In this mini-project, I have chosen to do sentiment analysis of social media websites such as Twitter to gain insights into people’s opinions towards prime ministerial candidates for the Lok Sabha election 2019.
 
 Social media provides a platform for people’s opinion of a person, event, or topic to be heard from anywhere at any time — and is the easiest and fastest way for them to do it. So, analyzing these sentiments will be of immense use in knowing the trending topics and the mood of the people towards those topics, among other things.
 
